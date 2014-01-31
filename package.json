@@ -1,0 +1,15 @@
+{
+  "name": "quierobits_blog",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {},
+  "dependencies" : {
+    "express": "3.*",
+    "jade": "*",
+    "stylus":"*",
+    "coffee-script":"*",
+    "poet":"*",
+    "forever":"*",
+    "dateformat":"*"
+  }
+}
